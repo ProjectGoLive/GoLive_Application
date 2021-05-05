@@ -1,12 +1,9 @@
 body {
-  background-color: rgb(100,100,100) !important;
-  margin: 0;
-  padding:0;
+  background-color: white;
+  color: #333333;
+  margin-top: 5rem;
 }
 
-#about-heading{
-  color: white;
-}
 h1, h2, h3, h4, h5, h6 {
   color: #444444;
 }
@@ -15,7 +12,9 @@ ul {
   margin: 0;
 }
 
-
+.bg-steel {
+  background-color: #5f788a;
+}
 
 .site-header .navbar-nav .nav-link {
   color: #cbd5db;
